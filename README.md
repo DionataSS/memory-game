@@ -7,4 +7,4 @@
 ## Enter your name and make your score. Enjoy!!!
 
 Link:
-https://dionatass.github.io/memory-game-naruto/
+https://dionatass.github.io/memory-game/

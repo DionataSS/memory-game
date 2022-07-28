@@ -1,4 +1,4 @@
-![Naruto gif](https://github.com/DionataSS/memory-game-naruto/blob/main/images/narutovideo.gif)
+![Naruto gif](https://github.com/DionataSS/memory-game/blob/main/images/narutovideo.gif)
 
 
 
